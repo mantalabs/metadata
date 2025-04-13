@@ -1,1 +1,1 @@
-{}
+{"claims":[{"url":"https://verify.rose.mantalabs.com","timestamp":1600029101,"type":"ATTESTATION_SERVICE_URL"},{"rpcUrl":"https://celo-rpc-rose.mantalabs.com","timestamp":1743315972,"type":"RPC_URL"}],"meta":{"address":"0xaC6492D439b3b812e822d1e975338f48bDD0B1f2","signature":"0x4d44e8e0e3479ffc79a3deb6f3774b57337a5ea21c99422bdfa5682d1d06ad035ec70a7598c626f41ad11ba86ec1d65a55e0b31864748d5df132a92a1a9853001b"}}

@@ -1,1 +1,1 @@
-{}
+{"claims":[{"url":"https://verify.reginald.mantalabs.com/","timestamp":1598856011,"type":"ATTESTATION_SERVICE_URL"},{"rpcUrl":"https://celo-rpc-reginald.mantalabs.com","timestamp":1743316109,"type":"RPC_URL"}],"meta":{"address":"0x7328B986cF7e7a1Baf62E257aAFa66abdA4109Ce","signature":"0x30217aebcd6371b9d8a0c5d4641af13e10990cbf258d582735a6a0e6de2b6b1f3e703fedf572bdfe20181987580f01ed8442feea22df03784fe47266fd9be40a1c"}}
